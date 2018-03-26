@@ -1,0 +1,12 @@
+Amr Galal:
+Implemented the algorithms to calculate transition time and delays for each node in the graph
+
+Karim Farid:
+Implemented the algorithms to do topological sort of the nodes and produce the critical path
+
+Omar El Nawawy:
+Implemented the algorithms to calculate capacitance of each gate
+Did the reports of the test designs
+
+Sherif Hussein:
+Started Implemnting the required algorithms to calculate arrival and required time at each node of the DAG.

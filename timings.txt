@@ -1,0 +1,52 @@
+des6
+Pin        type        Incr      Path Delay 
+3        0 0 
+$abc$113$auto$blifparse.cc:286:parse_blif$114/A        0 0.058149 
+$abc$113$auto$blifparse.cc:286:parse_blif$115/B        0 0.094223 
+4        0 0.094223
+
+des
+Pin        type        Incr      Path Delay 
+3        0 0 
+$abc$101$auto$blifparse.cc:286:parse_blif$132/A        0 0.08412 
+$abc$101$auto$blifparse.cc:286:parse_blif$134/A        0 0.094223 
+$auto$simplemap.cc:420:simplemap_dff$100/D        0 0.252448 
+52        0 0.252448
+
+des2
+Pin        type        Incr      Path Delay 
+6        0 0 
+$abc$62$auto$blifparse.cc:286:parse_blif$64/A        0 0.094223 
+$abc$62$auto$blifparse.cc:286:parse_blif$66/A        0 0.099015 
+$auto$simplemap.cc:420:simplemap_dff$61/D        0 0.252448 
+8        0 0.252448
+
+des4
+Pin        type        Incr      Path Delay 
+8        0 0 
+$abc$147$auto$blifparse.cc:286:parse_blif$150/A        0 0.172065 
+$abc$147$auto$blifparse.cc:286:parse_blif$151/B        0 0.098103 
+15        0 0.098103
+
+des7
+Pin        type        Incr      Path Delay 
+3        0 0 
+$abc$100$auto$blifparse.cc:286:parse_blif$121/A        0 0.124147 
+$abc$100$auto$blifparse.cc:286:parse_blif$122/A        0 0.090142 
+$auto$simplemap.cc:420:simplemap_dff$99/D        0 0.252448 
+52        0 0.252448
+
+des8
+Pin        type        Incr      Path Delay 
+3        0 0 
+$abc$69$auto$blifparse.cc:286:parse_blif$70/A        0 0.08412 
+$abc$69$auto$blifparse.cc:286:parse_blif$72/A        0 0.094223 
+$auto$simplemap.cc:420:simplemap_dff$68/D        0 0.252448 
+8        0 0.252448
+
+test1
+
+3        0 0 
+$abc$49$auto$blifparse.cc:286:parse_blif$50/A        0 0.058149 
+$abc$49$auto$blifparse.cc:286:parse_blif$51/B        0 0.094223 
+4        0 0.094223
